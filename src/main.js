@@ -1,6 +1,6 @@
 
 
-import './styles/main.scss';
+import "./styles/main.scss"; // <<< CORREÇÃO AQUI!
 
 function openModal(modalId) {
     const modal = document.getElementById(modalId);
